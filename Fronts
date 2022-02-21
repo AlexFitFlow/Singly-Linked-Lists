@@ -1,4 +1,4 @@
-class SLLNode { // Singly-linked list node class..
+class SLLNode { // Singly-linked list node class.
     constructor(val) {
         this.value = val; // Holds value for this node
         this.next = null; // Pointer to next node
